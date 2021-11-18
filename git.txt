@@ -13,9 +13,8 @@ git reflog 删除记录
 删除分支 git branch -【d|D】【分支名】
 
 git push 【远程仓库地址】【分支名】
-<<<<<<< HEAD
 git clone 【远程仓库地址】
-=======
 git clone 【远程仓库地址】
->>>>>>> 1e72ead1843a017af0f3108d270f3e7a477ad75c
 哈哈哈
+
+git@github.com:XvLuosi/gitTest.git
