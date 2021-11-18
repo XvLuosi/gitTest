@@ -11,3 +11,6 @@ git reflog 删除记录
 切换分支 git checkout [-b 没有创建切换] [分支名]
 合并分支 git merge [分支名]
 删除分支 git branch -【d|D】【分支名】
+
+git push 【远程仓库地址】【分支名】
+git clone 【远程仓库地址】
