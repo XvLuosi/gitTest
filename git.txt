@@ -14,5 +14,7 @@ git reflog 删除记录
 
 git push 【远程仓库地址】【分支名】
 git clone 【远程仓库地址】
+git clone 【远程仓库地址】
+哈哈哈
 
 git@github.com:XvLuosi/gitTest.git
