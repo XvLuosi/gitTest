@@ -1,0 +1,13 @@
+基础
+git status 查看状态
+git add 提交到缓存区
+git commit 提交到仓库
+git reset --hard [id] 版本回退
+git reflog 删除记录
+
+分支
+产看分支 git branch
+创建分支 git branch 【分支名】
+切换分支 git checkout [-b 没有创建切换] [分支名]
+合并分支 git merge [分支名]
+删除分支 git branch -【d|D】【分支名】
